@@ -1,0 +1,21 @@
+lint.xml
+doxygen
+.idea
+*.apk
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+.gradle/
+build/
+local.properties
+proguard/
+*.log
+.navigation/
+captures/
+maven-repository/
+*.iml
+
+# generated java files are not tracked!
+app/src/main/java/com/sphericalelephant/example/greendao/generated
